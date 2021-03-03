@@ -9,6 +9,10 @@ two "##" translates to H2
 
 ## This is h2 tag
 
+three "###" translates to H3
+### This is h3 tag. 
+
+
 *tis text*
 **this text**
 ----
