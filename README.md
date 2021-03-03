@@ -1,9 +1,13 @@
 <!--- Headings ---->
 In oder to create headings you can use "#" sign for it. 
 
-one # translates to <h1>
+one "#" translates to h1
 
 # Heading equal to H1
+
+two "##" translates to H2
+
+## This is h2 tag
 
 *tis text*
 **this text**
