@@ -2,7 +2,6 @@
 In oder to create headings you can use "#" sign for it. 
 
 one # translates to <h1>
-for example 
 
 # Heading equal to H1
 
